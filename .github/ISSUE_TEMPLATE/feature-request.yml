@@ -1,4 +1,4 @@
-# Copyright 2023 The MathWorks, Inc.
+# Copyright 2024 The MathWorks, Inc.
 
 name: 🚀 Feature Request
 description: Suggest a feature for this project. 
@@ -8,7 +8,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        To report a bug or security vulnerability, return to [Create an Issue](https://github.com/mathworks/matlab-proxy/issues/new/choose).
+        To report a bug or security vulnerability, return to [Create an Issue](https://github.com/mathworks/jupyter-matlab-proxy/issues/new/choose).
 
   - type: markdown
     attributes:
